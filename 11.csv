@@ -1,0 +1,25 @@
+country,customer_id,first_name,last_name,total_spent
+Argentina,56,Diego,GutiÃ©rrez,39.599999999999994
+Australia,55,Mark,Taylor,81.17999999999995
+Austria,7,Astrid,Gruber,69.30000000000001
+Belgium,8,Daan,Peeters,60.390000000000036
+Brazil,1,LuÃ­s,GonÃ§alves,108.8999999999998
+Canada,3,FranÃ§ois,Tremblay,99.98999999999985
+Chile,57,Luis,Rojas,97.01999999999987
+"Czech Republic",5,FrantiÅ¡ek,WichterlovÃ¡,144.53999999999985
+Denmark,9,Kara,Nielsen,37.61999999999999
+Finland,44,Terhi,HÃ¤mÃ¤lÃ¤inen,79.19999999999996
+France,42,Wyatt,Girard,99.98999999999985
+Germany,37,Fynn,Zimmermann,94.04999999999988
+Hungary,45,Ladislav,KovÃ¡cs,78.20999999999997
+India,58,Manoj,Pareek,111.86999999999979
+Ireland,46,Hugh,O'Reilly,114.83999999999978
+Italy,47,Lucas,Mancini,50.490000000000016
+Netherlands,48,Johannes,"Van der Berg",65.34000000000003
+Norway,4,BjÃ¸rn,Hansen,72.27
+Poland,49,StanisÅ‚aw,WÃ³jcik,76.22999999999998
+Portugal,34,JoÃ£o,Fernandes,102.95999999999984
+Spain,50,Enrique,MuÃ±oz,98.00999999999986
+Sweden,51,Joakim,Johansson,75.23999999999998
+"United Kingdom",53,Phil,Hughes,98.00999999999986
+USA,17,Jack,Smith,98.00999999999986
