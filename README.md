@@ -62,15 +62,6 @@ The schema consists of the following tables:
 * *SQL* (MySQL)
 * *Database Visualization*: Schema diagram provided
 * *GitHub*: Project hosting
----
-
-## 📂 Project Structure
-
-music-store-sql-analysis/
-│── schema_diagram.png       # Database schema diagram
-│── queries.sql              # SQL queries for analysis
-│── results/                 # Query outputs
-│── README.md                # Project documentation
 
 
 ## 📈 Insights Gained
